@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('img/bg.svg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+footer p {
+    font-size: 0.9em;
+}
